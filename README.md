@@ -1,7 +1,10 @@
 # golden_tee_results
 python scripts and file folder structure for filtering and sorting golden tee results
 
-Download all results as csv files to golden_tee_results folder
+make sure you download all raw results as csv files to the golden_tee_results folder
 
-run compile_results.py
-then run filter_sort_results.py
+-download zip file
+-extract
+-open python3 in terminal at /yourpath/golden_tee_results
+-run compile_results.py
+-run filter_sort_results.py
