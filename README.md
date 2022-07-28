@@ -1,5 +1,5 @@
 # golden_tee_results
-python scripts for filtering and sorting golden tee results
+python scripts and file folder structure for filtering and sorting golden tee results
 
 Download all results as csv files to golden_tee_results folder
 
