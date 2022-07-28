@@ -1,6 +1,6 @@
 ##compile results
 ##MAKE SURE TO RUN THIS IN THE RELEVANT DIRECTORY
-##check working directory with print("Current working directory: {0}".format(os.getcwd()))
+##check working directory after importing os with print("Current working directory: {0}".format(os.getcwd()))
 import os
 import glob
 import pandas as pd
